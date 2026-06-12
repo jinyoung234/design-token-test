@@ -3,18 +3,24 @@
     "0": {
       "key": "{Common.0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#000000",
         "$type": "color",
+        "$value": "#000000",
         "key": "{Common.0}"
       },
       "name": "common-0",
@@ -30,18 +36,24 @@
     "100": {
       "key": "{Common.100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffffff",
         "$type": "color",
+        "$value": "#ffffff",
         "key": "{Common.100}"
       },
       "name": "common-100",
@@ -53,24 +65,51 @@
         "Common",
         "100"
       ]
+    },
+    "200": {
+      "key": "{Common.200}",
+      "$type": "color",
+      "$value": "#cacaca",
+      "filePath": "tokens.json",
+      "isSource": true,
+      "original": {
+        "$type": "color",
+        "$value": "#cacaca",
+        "key": "{Common.200}"
+      },
+      "name": "common-200",
+      "attributes": {
+        "category": "Common",
+        "type": "200"
+      },
+      "path": [
+        "Common",
+        "200"
+      ]
     }
   },
   "Neutral": {
     "5": {
       "key": "{Neutral.5}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#0f0f0f",
       "$type": "color",
+      "$value": "#0f0f0f",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#0f0f0f",
         "$type": "color",
+        "$value": "#0f0f0f",
         "key": "{Neutral.5}"
       },
       "name": "neutral-5",
@@ -86,18 +125,24 @@
     "10": {
       "key": "{Neutral.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#171717",
       "$type": "color",
+      "$value": "#171717",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#171717",
         "$type": "color",
+        "$value": "#171717",
         "key": "{Neutral.10}"
       },
       "name": "neutral-10",
@@ -113,18 +158,24 @@
     "15": {
       "key": "{Neutral.15}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#1c1c1c",
       "$type": "color",
+      "$value": "#1c1c1c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#1c1c1c",
         "$type": "color",
+        "$value": "#1c1c1c",
         "key": "{Neutral.15}"
       },
       "name": "neutral-15",
@@ -140,18 +191,24 @@
     "20": {
       "key": "{Neutral.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#2a2a2a",
       "$type": "color",
+      "$value": "#2a2a2a",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#2a2a2a",
         "$type": "color",
+        "$value": "#2a2a2a",
         "key": "{Neutral.20}"
       },
       "name": "neutral-20",
@@ -167,18 +224,24 @@
     "22": {
       "key": "{Neutral.22}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#303030",
       "$type": "color",
+      "$value": "#303030",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#303030",
         "$type": "color",
+        "$value": "#303030",
         "key": "{Neutral.22}"
       },
       "name": "neutral-22",
@@ -194,18 +257,24 @@
     "30": {
       "key": "{Neutral.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#474747",
       "$type": "color",
+      "$value": "#474747",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#474747",
         "$type": "color",
+        "$value": "#474747",
         "key": "{Neutral.30}"
       },
       "name": "neutral-30",
@@ -221,18 +290,24 @@
     "40": {
       "key": "{Neutral.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#5c5c5c",
       "$type": "color",
+      "$value": "#5c5c5c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#5c5c5c",
         "$type": "color",
+        "$value": "#5c5c5c",
         "key": "{Neutral.40}"
       },
       "name": "neutral-40",
@@ -248,18 +323,24 @@
     "50": {
       "key": "{Neutral.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#737373",
       "$type": "color",
+      "$value": "#737373",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#737373",
         "$type": "color",
+        "$value": "#737373",
         "key": "{Neutral.50}"
       },
       "name": "neutral-50",
@@ -275,18 +356,24 @@
     "60": {
       "key": "{Neutral.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#8a8a8a",
       "$type": "color",
+      "$value": "#8a8a8a",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#8a8a8a",
         "$type": "color",
+        "$value": "#8a8a8a",
         "key": "{Neutral.60}"
       },
       "name": "neutral-60",
@@ -302,18 +389,24 @@
     "70": {
       "key": "{Neutral.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#9b9b9b",
       "$type": "color",
+      "$value": "#9b9b9b",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#9b9b9b",
         "$type": "color",
+        "$value": "#9b9b9b",
         "key": "{Neutral.70}"
       },
       "name": "neutral-70",
@@ -329,18 +422,24 @@
     "80": {
       "key": "{Neutral.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#b0b0b0",
       "$type": "color",
+      "$value": "#b0b0b0",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#b0b0b0",
         "$type": "color",
+        "$value": "#b0b0b0",
         "key": "{Neutral.80}"
       },
       "name": "neutral-80",
@@ -356,18 +455,24 @@
     "90": {
       "key": "{Neutral.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#c4c4c4",
       "$type": "color",
+      "$value": "#c4c4c4",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#c4c4c4",
         "$type": "color",
+        "$value": "#c4c4c4",
         "key": "{Neutral.90}"
       },
       "name": "neutral-90",
@@ -383,18 +488,24 @@
     "95": {
       "key": "{Neutral.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#dcdcdc",
       "$type": "color",
+      "$value": "#dcdcdc",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#dcdcdc",
         "$type": "color",
+        "$value": "#dcdcdc",
         "key": "{Neutral.95}"
       },
       "name": "neutral-95",
@@ -410,18 +521,24 @@
     "99": {
       "key": "{Neutral.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f7f7f7",
       "$type": "color",
+      "$value": "#f7f7f7",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f7f7f7",
         "$type": "color",
+        "$value": "#f7f7f7",
         "key": "{Neutral.99}"
       },
       "name": "neutral-99",
@@ -437,18 +554,24 @@
     "_0": {
       "key": "{Neutral._0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Neutral._0}"
       },
       "name": "neutral-0",
@@ -464,18 +587,24 @@
     "_100": {
       "key": "{Neutral._100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Neutral._100}"
       },
       "name": "neutral-100",
@@ -493,18 +622,24 @@
     "5": {
       "key": "{Cool Neutral.5}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#0f0f10",
       "$type": "color",
+      "$value": "#0f0f10",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#0f0f10",
         "$type": "color",
+        "$value": "#0f0f10",
         "key": "{Cool Neutral.5}"
       },
       "name": "cool-neutral-5",
@@ -520,18 +655,24 @@
     "7": {
       "key": "{Cool Neutral.7}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#141415",
       "$type": "color",
+      "$value": "#141415",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#141415",
         "$type": "color",
+        "$value": "#141415",
         "key": "{Cool Neutral.7}"
       },
       "name": "cool-neutral-7",
@@ -547,18 +688,24 @@
     "10": {
       "key": "{Cool Neutral.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#171719",
       "$type": "color",
+      "$value": "#171719",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#171719",
         "$type": "color",
+        "$value": "#171719",
         "key": "{Cool Neutral.10}"
       },
       "name": "cool-neutral-10",
@@ -574,18 +721,24 @@
     "15": {
       "key": "{Cool Neutral.15}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#1b1c1e",
       "$type": "color",
+      "$value": "#1b1c1e",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#1b1c1e",
         "$type": "color",
+        "$value": "#1b1c1e",
         "key": "{Cool Neutral.15}"
       },
       "name": "cool-neutral-15",
@@ -601,18 +754,24 @@
     "17": {
       "key": "{Cool Neutral.17}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#212225",
       "$type": "color",
+      "$value": "#212225",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#212225",
         "$type": "color",
+        "$value": "#212225",
         "key": "{Cool Neutral.17}"
       },
       "name": "cool-neutral-17",
@@ -628,18 +787,24 @@
     "20": {
       "key": "{Cool Neutral.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#292a2d",
       "$type": "color",
+      "$value": "#292a2d",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#292a2d",
         "$type": "color",
+        "$value": "#292a2d",
         "key": "{Cool Neutral.20}"
       },
       "name": "cool-neutral-20",
@@ -655,18 +820,24 @@
     "22": {
       "key": "{Cool Neutral.22}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#2e2f33",
       "$type": "color",
+      "$value": "#2e2f33",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#2e2f33",
         "$type": "color",
+        "$value": "#2e2f33",
         "key": "{Cool Neutral.22}"
       },
       "name": "cool-neutral-22",
@@ -682,18 +853,24 @@
     "23": {
       "key": "{Cool Neutral.23}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#333438",
       "$type": "color",
+      "$value": "#333438",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#333438",
         "$type": "color",
+        "$value": "#333438",
         "key": "{Cool Neutral.23}"
       },
       "name": "cool-neutral-23",
@@ -709,18 +886,24 @@
     "25": {
       "key": "{Cool Neutral.25}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#37383c",
       "$type": "color",
+      "$value": "#37383c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#37383c",
         "$type": "color",
+        "$value": "#37383c",
         "key": "{Cool Neutral.25}"
       },
       "name": "cool-neutral-25",
@@ -736,18 +919,24 @@
     "30": {
       "key": "{Cool Neutral.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#46474c",
       "$type": "color",
+      "$value": "#46474c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#46474c",
         "$type": "color",
+        "$value": "#46474c",
         "key": "{Cool Neutral.30}"
       },
       "name": "cool-neutral-30",
@@ -763,18 +952,24 @@
     "40": {
       "key": "{Cool Neutral.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#5a5c63",
       "$type": "color",
+      "$value": "#5a5c63",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#5a5c63",
         "$type": "color",
+        "$value": "#5a5c63",
         "key": "{Cool Neutral.40}"
       },
       "name": "cool-neutral-40",
@@ -790,18 +985,24 @@
     "50": {
       "key": "{Cool Neutral.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#70737c",
       "$type": "color",
+      "$value": "#70737c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#70737c",
         "$type": "color",
+        "$value": "#70737c",
         "key": "{Cool Neutral.50}"
       },
       "name": "cool-neutral-50",
@@ -817,18 +1018,24 @@
     "60": {
       "key": "{Cool Neutral.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#878a93",
       "$type": "color",
+      "$value": "#878a93",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#878a93",
         "$type": "color",
+        "$value": "#878a93",
         "key": "{Cool Neutral.60}"
       },
       "name": "cool-neutral-60",
@@ -844,18 +1051,24 @@
     "70": {
       "key": "{Cool Neutral.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#989ba2",
       "$type": "color",
+      "$value": "#989ba2",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#989ba2",
         "$type": "color",
+        "$value": "#989ba2",
         "key": "{Cool Neutral.70}"
       },
       "name": "cool-neutral-70",
@@ -871,18 +1084,24 @@
     "80": {
       "key": "{Cool Neutral.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#aeb0b6",
       "$type": "color",
+      "$value": "#aeb0b6",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#aeb0b6",
         "$type": "color",
+        "$value": "#aeb0b6",
         "key": "{Cool Neutral.80}"
       },
       "name": "cool-neutral-80",
@@ -898,18 +1117,24 @@
     "90": {
       "key": "{Cool Neutral.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#c2c4c8",
       "$type": "color",
+      "$value": "#c2c4c8",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#c2c4c8",
         "$type": "color",
+        "$value": "#c2c4c8",
         "key": "{Cool Neutral.90}"
       },
       "name": "cool-neutral-90",
@@ -925,18 +1150,24 @@
     "95": {
       "key": "{Cool Neutral.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#dbdcdf",
       "$type": "color",
+      "$value": "#dbdcdf",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#dbdcdf",
         "$type": "color",
+        "$value": "#dbdcdf",
         "key": "{Cool Neutral.95}"
       },
       "name": "cool-neutral-95",
@@ -952,18 +1183,24 @@
     "96": {
       "key": "{Cool Neutral.96}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#e1e2e4",
       "$type": "color",
+      "$value": "#e1e2e4",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e1e2e4",
         "$type": "color",
+        "$value": "#e1e2e4",
         "key": "{Cool Neutral.96}"
       },
       "name": "cool-neutral-96",
@@ -979,18 +1216,24 @@
     "97": {
       "key": "{Cool Neutral.97}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#eaebec",
       "$type": "color",
+      "$value": "#eaebec",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#eaebec",
         "$type": "color",
+        "$value": "#eaebec",
         "key": "{Cool Neutral.97}"
       },
       "name": "cool-neutral-97",
@@ -1006,18 +1249,24 @@
     "98": {
       "key": "{Cool Neutral.98}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f4f4f5",
       "$type": "color",
+      "$value": "#f4f4f5",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f4f4f5",
         "$type": "color",
+        "$value": "#f4f4f5",
         "key": "{Cool Neutral.98}"
       },
       "name": "cool-neutral-98",
@@ -1033,18 +1282,24 @@
     "99": {
       "key": "{Cool Neutral.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f7f7f8",
       "$type": "color",
+      "$value": "#f7f7f8",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f7f7f8",
         "$type": "color",
+        "$value": "#f7f7f8",
         "key": "{Cool Neutral.99}"
       },
       "name": "cool-neutral-99",
@@ -1060,18 +1315,24 @@
     "_0": {
       "key": "{Cool Neutral._0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Cool Neutral._0}"
       },
       "name": "cool-neutral-0",
@@ -1087,18 +1348,24 @@
     "_100": {
       "key": "{Cool Neutral._100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Cool Neutral._100}"
       },
       "name": "cool-neutral-100",
@@ -1116,18 +1383,24 @@
     "10": {
       "key": "{Blue.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#001536",
       "$type": "color",
+      "$value": "#001536",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#001536",
         "$type": "color",
+        "$value": "#001536",
         "key": "{Blue.10}"
       },
       "name": "blue-10",
@@ -1143,18 +1416,24 @@
     "20": {
       "key": "{Blue.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#002966",
       "$type": "color",
+      "$value": "#002966",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#002966",
         "$type": "color",
+        "$value": "#002966",
         "key": "{Blue.20}"
       },
       "name": "blue-20",
@@ -1170,18 +1449,24 @@
     "30": {
       "key": "{Blue.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#003e9c",
       "$type": "color",
+      "$value": "#003e9c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#003e9c",
         "$type": "color",
+        "$value": "#003e9c",
         "key": "{Blue.30}"
       },
       "name": "blue-30",
@@ -1197,18 +1482,24 @@
     "40": {
       "key": "{Blue.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#0054d1",
       "$type": "color",
+      "$value": "#0054d1",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#0054d1",
         "$type": "color",
+        "$value": "#0054d1",
         "key": "{Blue.40}"
       },
       "name": "blue-40",
@@ -1224,18 +1515,24 @@
     "45": {
       "key": "{Blue.45}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#005eeb",
       "$type": "color",
+      "$value": "#005eeb",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#005eeb",
         "$type": "color",
+        "$value": "#005eeb",
         "key": "{Blue.45}"
       },
       "name": "blue-45",
@@ -1251,18 +1548,24 @@
     "50": {
       "key": "{Blue.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#0066ff",
       "$type": "color",
+      "$value": "#0066ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#0066ff",
         "$type": "color",
+        "$value": "#0066ff",
         "key": "{Blue.50}"
       },
       "name": "blue-50",
@@ -1278,18 +1581,24 @@
     "55": {
       "key": "{Blue.55}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#1a75ff",
       "$type": "color",
+      "$value": "#1a75ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#1a75ff",
         "$type": "color",
+        "$value": "#1a75ff",
         "key": "{Blue.55}"
       },
       "name": "blue-55",
@@ -1305,18 +1614,24 @@
     "60": {
       "key": "{Blue.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#3385ff",
       "$type": "color",
+      "$value": "#3385ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#3385ff",
         "$type": "color",
+        "$value": "#3385ff",
         "key": "{Blue.60}"
       },
       "name": "blue-60",
@@ -1332,18 +1647,24 @@
     "65": {
       "key": "{Blue.65}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#4f95ff",
       "$type": "color",
+      "$value": "#4f95ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#4f95ff",
         "$type": "color",
+        "$value": "#4f95ff",
         "key": "{Blue.65}"
       },
       "name": "blue-65",
@@ -1359,18 +1680,24 @@
     "70": {
       "key": "{Blue.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#69a5ff",
       "$type": "color",
+      "$value": "#69a5ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#69a5ff",
         "$type": "color",
+        "$value": "#69a5ff",
         "key": "{Blue.70}"
       },
       "name": "blue-70",
@@ -1386,18 +1713,24 @@
     "80": {
       "key": "{Blue.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#9ec5ff",
       "$type": "color",
+      "$value": "#9ec5ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#9ec5ff",
         "$type": "color",
+        "$value": "#9ec5ff",
         "key": "{Blue.80}"
       },
       "name": "blue-80",
@@ -1413,18 +1746,24 @@
     "90": {
       "key": "{Blue.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#c9defe",
       "$type": "color",
+      "$value": "#c9defe",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#c9defe",
         "$type": "color",
+        "$value": "#c9defe",
         "key": "{Blue.90}"
       },
       "name": "blue-90",
@@ -1440,18 +1779,24 @@
     "95": {
       "key": "{Blue.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#eaf2fe",
       "$type": "color",
+      "$value": "#eaf2fe",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#eaf2fe",
         "$type": "color",
+        "$value": "#eaf2fe",
         "key": "{Blue.95}"
       },
       "name": "blue-95",
@@ -1467,18 +1812,24 @@
     "99": {
       "key": "{Blue.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f7fbff",
       "$type": "color",
+      "$value": "#f7fbff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f7fbff",
         "$type": "color",
+        "$value": "#f7fbff",
         "key": "{Blue.99}"
       },
       "name": "blue-99",
@@ -1494,18 +1845,24 @@
     "_0": {
       "key": "{Blue._0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Blue._0}"
       },
       "name": "blue-0",
@@ -1521,18 +1878,24 @@
     "_100": {
       "key": "{Blue._100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Blue._100}"
       },
       "name": "blue-100",
@@ -1550,18 +1913,24 @@
     "10": {
       "key": "{Red.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#3b0101",
       "$type": "color",
+      "$value": "#3b0101",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#3b0101",
         "$type": "color",
+        "$value": "#3b0101",
         "key": "{Red.10}"
       },
       "name": "red-10",
@@ -1577,18 +1946,24 @@
     "20": {
       "key": "{Red.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#730303",
       "$type": "color",
+      "$value": "#730303",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#730303",
         "$type": "color",
+        "$value": "#730303",
         "key": "{Red.20}"
       },
       "name": "red-20",
@@ -1604,18 +1979,24 @@
     "30": {
       "key": "{Red.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#b00c0c",
       "$type": "color",
+      "$value": "#b00c0c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#b00c0c",
         "$type": "color",
+        "$value": "#b00c0c",
         "key": "{Red.30}"
       },
       "name": "red-30",
@@ -1631,18 +2012,24 @@
     "40": {
       "key": "{Red.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#e52222",
       "$type": "color",
+      "$value": "#e52222",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e52222",
         "$type": "color",
+        "$value": "#e52222",
         "key": "{Red.40}"
       },
       "name": "red-40",
@@ -1658,18 +2045,24 @@
     "50": {
       "key": "{Red.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff4242",
       "$type": "color",
+      "$value": "#ff4242",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff4242",
         "$type": "color",
+        "$value": "#ff4242",
         "key": "{Red.50}"
       },
       "name": "red-50",
@@ -1685,18 +2078,24 @@
     "60": {
       "key": "{Red.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff6363",
       "$type": "color",
+      "$value": "#ff6363",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff6363",
         "$type": "color",
+        "$value": "#ff6363",
         "key": "{Red.60}"
       },
       "name": "red-60",
@@ -1712,18 +2111,24 @@
     "70": {
       "key": "{Red.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff8c8c",
       "$type": "color",
+      "$value": "#ff8c8c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff8c8c",
         "$type": "color",
+        "$value": "#ff8c8c",
         "key": "{Red.70}"
       },
       "name": "red-70",
@@ -1739,18 +2144,24 @@
     "80": {
       "key": "{Red.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffb5b5",
       "$type": "color",
+      "$value": "#ffb5b5",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffb5b5",
         "$type": "color",
+        "$value": "#ffb5b5",
         "key": "{Red.80}"
       },
       "name": "red-80",
@@ -1766,18 +2177,24 @@
     "90": {
       "key": "{Red.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fed5d5",
       "$type": "color",
+      "$value": "#fed5d5",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fed5d5",
         "$type": "color",
+        "$value": "#fed5d5",
         "key": "{Red.90}"
       },
       "name": "red-90",
@@ -1793,18 +2210,24 @@
     "95": {
       "key": "{Red.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#feecec",
       "$type": "color",
+      "$value": "#feecec",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#feecec",
         "$type": "color",
+        "$value": "#feecec",
         "key": "{Red.95}"
       },
       "name": "red-95",
@@ -1820,18 +2243,24 @@
     "99": {
       "key": "{Red.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fffafa",
       "$type": "color",
+      "$value": "#fffafa",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fffafa",
         "$type": "color",
+        "$value": "#fffafa",
         "key": "{Red.99}"
       },
       "name": "red-99",
@@ -1847,18 +2276,24 @@
     "_0": {
       "key": "{Red._0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Red._0}"
       },
       "name": "red-0",
@@ -1874,18 +2309,24 @@
     "_100": {
       "key": "{Red._100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Red._100}"
       },
       "name": "red-100",
@@ -1903,18 +2344,24 @@
     "10": {
       "key": "{Green.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#00240c",
       "$type": "color",
+      "$value": "#00240c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#00240c",
         "$type": "color",
+        "$value": "#00240c",
         "key": "{Green.10}"
       },
       "name": "green-10",
@@ -1930,18 +2377,24 @@
     "20": {
       "key": "{Green.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#004517",
       "$type": "color",
+      "$value": "#004517",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#004517",
         "$type": "color",
+        "$value": "#004517",
         "key": "{Green.20}"
       },
       "name": "green-20",
@@ -1957,18 +2410,24 @@
     "30": {
       "key": "{Green.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#006e25",
       "$type": "color",
+      "$value": "#006e25",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#006e25",
         "$type": "color",
+        "$value": "#006e25",
         "key": "{Green.30}"
       },
       "name": "green-30",
@@ -1984,18 +2443,24 @@
     "40": {
       "key": "{Green.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#009632",
       "$type": "color",
+      "$value": "#009632",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#009632",
         "$type": "color",
+        "$value": "#009632",
         "key": "{Green.40}"
       },
       "name": "green-40",
@@ -2011,18 +2476,24 @@
     "50": {
       "key": "{Green.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#00bf40",
       "$type": "color",
+      "$value": "#00bf40",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#00bf40",
         "$type": "color",
+        "$value": "#00bf40",
         "key": "{Green.50}"
       },
       "name": "green-50",
@@ -2038,18 +2509,24 @@
     "60": {
       "key": "{Green.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#1ed45a",
       "$type": "color",
+      "$value": "#1ed45a",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#1ed45a",
         "$type": "color",
+        "$value": "#1ed45a",
         "key": "{Green.60}"
       },
       "name": "green-60",
@@ -2065,18 +2542,24 @@
     "70": {
       "key": "{Green.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#49e57d",
       "$type": "color",
+      "$value": "#49e57d",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#49e57d",
         "$type": "color",
+        "$value": "#49e57d",
         "key": "{Green.70}"
       },
       "name": "green-70",
@@ -2092,18 +2575,24 @@
     "80": {
       "key": "{Green.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#7df5a5",
       "$type": "color",
+      "$value": "#7df5a5",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#7df5a5",
         "$type": "color",
+        "$value": "#7df5a5",
         "key": "{Green.80}"
       },
       "name": "green-80",
@@ -2119,18 +2608,24 @@
     "90": {
       "key": "{Green.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#acfcc7",
       "$type": "color",
+      "$value": "#acfcc7",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#acfcc7",
         "$type": "color",
+        "$value": "#acfcc7",
         "key": "{Green.90}"
       },
       "name": "green-90",
@@ -2146,18 +2641,24 @@
     "95": {
       "key": "{Green.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#d9ffe6",
       "$type": "color",
+      "$value": "#d9ffe6",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#d9ffe6",
         "$type": "color",
+        "$value": "#d9ffe6",
         "key": "{Green.95}"
       },
       "name": "green-95",
@@ -2173,18 +2674,24 @@
     "99": {
       "key": "{Green.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f2fff6",
       "$type": "color",
+      "$value": "#f2fff6",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f2fff6",
         "$type": "color",
+        "$value": "#f2fff6",
         "key": "{Green.99}"
       },
       "name": "green-99",
@@ -2200,18 +2707,24 @@
     "_0": {
       "key": "{Green._0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Green._0}"
       },
       "name": "green-0",
@@ -2227,18 +2740,24 @@
     "_100": {
       "key": "{Green._100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Green._100}"
       },
       "name": "green-100",
@@ -2256,18 +2775,24 @@
     "10": {
       "key": "{Orange.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#361e00",
       "$type": "color",
+      "$value": "#361e00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#361e00",
         "$type": "color",
+        "$value": "#361e00",
         "key": "{Orange.10}"
       },
       "name": "orange-10",
@@ -2283,18 +2808,24 @@
     "20": {
       "key": "{Orange.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#663a00",
       "$type": "color",
+      "$value": "#663a00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#663a00",
         "$type": "color",
+        "$value": "#663a00",
         "key": "{Orange.20}"
       },
       "name": "orange-20",
@@ -2310,18 +2841,24 @@
     "30": {
       "key": "{Orange.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#9c5800",
       "$type": "color",
+      "$value": "#9c5800",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#9c5800",
         "$type": "color",
+        "$value": "#9c5800",
         "key": "{Orange.30}"
       },
       "name": "orange-30",
@@ -2337,18 +2874,24 @@
     "39": {
       "key": "{Orange.39}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#d17600",
       "$type": "color",
+      "$value": "#d17600",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#d17600",
         "$type": "color",
+        "$value": "#d17600",
         "key": "{Orange.39}"
       },
       "name": "orange-39",
@@ -2364,18 +2907,24 @@
     "40": {
       "key": "{Orange.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#d47800",
       "$type": "color",
+      "$value": "#d47800",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#d47800",
         "$type": "color",
+        "$value": "#d47800",
         "key": "{Orange.40}"
       },
       "name": "orange-40",
@@ -2391,18 +2940,24 @@
     "50": {
       "key": "{Orange.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff9200",
       "$type": "color",
+      "$value": "#ff9200",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff9200",
         "$type": "color",
+        "$value": "#ff9200",
         "key": "{Orange.50}"
       },
       "name": "orange-50",
@@ -2418,18 +2973,24 @@
     "60": {
       "key": "{Orange.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffa938",
       "$type": "color",
+      "$value": "#ffa938",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffa938",
         "$type": "color",
+        "$value": "#ffa938",
         "key": "{Orange.60}"
       },
       "name": "orange-60",
@@ -2445,18 +3006,24 @@
     "70": {
       "key": "{Orange.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffc06e",
       "$type": "color",
+      "$value": "#ffc06e",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffc06e",
         "$type": "color",
+        "$value": "#ffc06e",
         "key": "{Orange.70}"
       },
       "name": "orange-70",
@@ -2472,18 +3039,24 @@
     "80": {
       "key": "{Orange.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffd49c",
       "$type": "color",
+      "$value": "#ffd49c",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffd49c",
         "$type": "color",
+        "$value": "#ffd49c",
         "key": "{Orange.80}"
       },
       "name": "orange-80",
@@ -2499,18 +3072,24 @@
     "90": {
       "key": "{Orange.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fee6c6",
       "$type": "color",
+      "$value": "#fee6c6",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fee6c6",
         "$type": "color",
+        "$value": "#fee6c6",
         "key": "{Orange.90}"
       },
       "name": "orange-90",
@@ -2526,18 +3105,24 @@
     "95": {
       "key": "{Orange.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fef4e6",
       "$type": "color",
+      "$value": "#fef4e6",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fef4e6",
         "$type": "color",
+        "$value": "#fef4e6",
         "key": "{Orange.95}"
       },
       "name": "orange-95",
@@ -2553,18 +3138,24 @@
     "99": {
       "key": "{Orange.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fffcf7",
       "$type": "color",
+      "$value": "#fffcf7",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fffcf7",
         "$type": "color",
+        "$value": "#fffcf7",
         "key": "{Orange.99}"
       },
       "name": "orange-99",
@@ -2580,18 +3171,24 @@
     "_0": {
       "key": "{Orange._0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Orange._0}"
       },
       "name": "orange-0",
@@ -2607,18 +3204,24 @@
     "_100": {
       "key": "{Orange._100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Orange._100}"
       },
       "name": "orange-100",
@@ -2636,18 +3239,24 @@
     "10": {
       "key": "{Red Orange.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#290f00",
       "$type": "color",
+      "$value": "#290f00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#290f00",
         "$type": "color",
+        "$value": "#290f00",
         "key": "{Red Orange.10}"
       },
       "name": "red-orange-10",
@@ -2663,18 +3272,24 @@
     "20": {
       "key": "{Red Orange.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#592100",
       "$type": "color",
+      "$value": "#592100",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#592100",
         "$type": "color",
+        "$value": "#592100",
         "key": "{Red Orange.20}"
       },
       "name": "red-orange-20",
@@ -2690,18 +3305,24 @@
     "30": {
       "key": "{Red Orange.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#913500",
       "$type": "color",
+      "$value": "#913500",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#913500",
         "$type": "color",
+        "$value": "#913500",
         "key": "{Red Orange.30}"
       },
       "name": "red-orange-30",
@@ -2717,18 +3338,24 @@
     "40": {
       "key": "{Red Orange.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#c94a00",
       "$type": "color",
+      "$value": "#c94a00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#c94a00",
         "$type": "color",
+        "$value": "#c94a00",
         "key": "{Red Orange.40}"
       },
       "name": "red-orange-40",
@@ -2744,18 +3371,24 @@
     "48": {
       "key": "{Red Orange.48}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f55a00",
       "$type": "color",
+      "$value": "#f55a00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f55a00",
         "$type": "color",
+        "$value": "#f55a00",
         "key": "{Red Orange.48}"
       },
       "name": "red-orange-48",
@@ -2771,18 +3404,24 @@
     "50": {
       "key": "{Red Orange.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff5e00",
       "$type": "color",
+      "$value": "#ff5e00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff5e00",
         "$type": "color",
+        "$value": "#ff5e00",
         "key": "{Red Orange.50}"
       },
       "name": "red-orange-50",
@@ -2798,18 +3437,24 @@
     "60": {
       "key": "{Red Orange.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff7b2e",
       "$type": "color",
+      "$value": "#ff7b2e",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff7b2e",
         "$type": "color",
+        "$value": "#ff7b2e",
         "key": "{Red Orange.60}"
       },
       "name": "red-orange-60",
@@ -2825,18 +3470,24 @@
     "70": {
       "key": "{Red Orange.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff9b61",
       "$type": "color",
+      "$value": "#ff9b61",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff9b61",
         "$type": "color",
+        "$value": "#ff9b61",
         "key": "{Red Orange.70}"
       },
       "name": "red-orange-70",
@@ -2852,18 +3503,24 @@
     "80": {
       "key": "{Red Orange.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffbd96",
       "$type": "color",
+      "$value": "#ffbd96",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffbd96",
         "$type": "color",
+        "$value": "#ffbd96",
         "key": "{Red Orange.80}"
       },
       "name": "red-orange-80",
@@ -2879,18 +3536,24 @@
     "90": {
       "key": "{Red Orange.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fed9c4",
       "$type": "color",
+      "$value": "#fed9c4",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fed9c4",
         "$type": "color",
+        "$value": "#fed9c4",
         "key": "{Red Orange.90}"
       },
       "name": "red-orange-90",
@@ -2906,18 +3569,24 @@
     "95": {
       "key": "{Red Orange.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#feeee5",
       "$type": "color",
+      "$value": "#feeee5",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#feeee5",
         "$type": "color",
+        "$value": "#feeee5",
         "key": "{Red Orange.95}"
       },
       "name": "red-orange-95",
@@ -2933,18 +3602,24 @@
     "99": {
       "key": "{Red Orange.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fffaf7",
       "$type": "color",
+      "$value": "#fffaf7",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fffaf7",
         "$type": "color",
+        "$value": "#fffaf7",
         "key": "{Red Orange.99}"
       },
       "name": "red-orange-99",
@@ -2960,18 +3635,24 @@
     "_0": {
       "key": "{Red Orange._0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Red Orange._0}"
       },
       "name": "red-orange-0",
@@ -2987,18 +3668,24 @@
     "_100": {
       "key": "{Red Orange._100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Red Orange._100}"
       },
       "name": "red-orange-100",
@@ -3016,18 +3703,24 @@
     "0": {
       "key": "{Lime.0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Lime.0}"
       },
       "name": "lime-0",
@@ -3043,18 +3736,24 @@
     "10": {
       "key": "{Lime.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#112900",
       "$type": "color",
+      "$value": "#112900",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#112900",
         "$type": "color",
+        "$value": "#112900",
         "key": "{Lime.10}"
       },
       "name": "lime-10",
@@ -3070,18 +3769,24 @@
     "20": {
       "key": "{Lime.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#225200",
       "$type": "color",
+      "$value": "#225200",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#225200",
         "$type": "color",
+        "$value": "#225200",
         "key": "{Lime.20}"
       },
       "name": "lime-20",
@@ -3097,18 +3802,24 @@
     "30": {
       "key": "{Lime.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#347d00",
       "$type": "color",
+      "$value": "#347d00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#347d00",
         "$type": "color",
+        "$value": "#347d00",
         "key": "{Lime.30}"
       },
       "name": "lime-30",
@@ -3124,18 +3835,24 @@
     "37": {
       "key": "{Lime.37}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#429e00",
       "$type": "color",
+      "$value": "#429e00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#429e00",
         "$type": "color",
+        "$value": "#429e00",
         "key": "{Lime.37}"
       },
       "name": "lime-37",
@@ -3151,18 +3868,24 @@
     "40": {
       "key": "{Lime.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#48ad00",
       "$type": "color",
+      "$value": "#48ad00",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#48ad00",
         "$type": "color",
+        "$value": "#48ad00",
         "key": "{Lime.40}"
       },
       "name": "lime-40",
@@ -3178,18 +3901,24 @@
     "50": {
       "key": "{Lime.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#58cf04",
       "$type": "color",
+      "$value": "#58cf04",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#58cf04",
         "$type": "color",
+        "$value": "#58cf04",
         "key": "{Lime.50}"
       },
       "name": "lime-50",
@@ -3205,18 +3934,24 @@
     "60": {
       "key": "{Lime.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#6be016",
       "$type": "color",
+      "$value": "#6be016",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#6be016",
         "$type": "color",
+        "$value": "#6be016",
         "key": "{Lime.60}"
       },
       "name": "lime-60",
@@ -3232,18 +3967,24 @@
     "70": {
       "key": "{Lime.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#88f03e",
       "$type": "color",
+      "$value": "#88f03e",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#88f03e",
         "$type": "color",
+        "$value": "#88f03e",
         "key": "{Lime.70}"
       },
       "name": "lime-70",
@@ -3259,18 +4000,24 @@
     "80": {
       "key": "{Lime.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#aef779",
       "$type": "color",
+      "$value": "#aef779",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#aef779",
         "$type": "color",
+        "$value": "#aef779",
         "key": "{Lime.80}"
       },
       "name": "lime-80",
@@ -3286,18 +4033,24 @@
     "90": {
       "key": "{Lime.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ccfca9",
       "$type": "color",
+      "$value": "#ccfca9",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ccfca9",
         "$type": "color",
+        "$value": "#ccfca9",
         "key": "{Lime.90}"
       },
       "name": "lime-90",
@@ -3313,18 +4066,24 @@
     "95": {
       "key": "{Lime.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#e6ffd4",
       "$type": "color",
+      "$value": "#e6ffd4",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e6ffd4",
         "$type": "color",
+        "$value": "#e6ffd4",
         "key": "{Lime.95}"
       },
       "name": "lime-95",
@@ -3340,18 +4099,24 @@
     "99": {
       "key": "{Lime.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f8fff2",
       "$type": "color",
+      "$value": "#f8fff2",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f8fff2",
         "$type": "color",
+        "$value": "#f8fff2",
         "key": "{Lime.99}"
       },
       "name": "lime-99",
@@ -3367,18 +4132,24 @@
     "100": {
       "key": "{Lime.100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Lime.100}"
       },
       "name": "lime-100",
@@ -3396,18 +4167,24 @@
     "0": {
       "key": "{Cyan.0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Cyan.0}"
       },
       "name": "cyan-0",
@@ -3423,18 +4200,24 @@
     "10": {
       "key": "{Cyan.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#00252b",
       "$type": "color",
+      "$value": "#00252b",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#00252b",
         "$type": "color",
+        "$value": "#00252b",
         "key": "{Cyan.10}"
       },
       "name": "cyan-10",
@@ -3450,18 +4233,24 @@
     "20": {
       "key": "{Cyan.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#004854",
       "$type": "color",
+      "$value": "#004854",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#004854",
         "$type": "color",
+        "$value": "#004854",
         "key": "{Cyan.20}"
       },
       "name": "cyan-20",
@@ -3477,18 +4266,24 @@
     "30": {
       "key": "{Cyan.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#006f82",
       "$type": "color",
+      "$value": "#006f82",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#006f82",
         "$type": "color",
+        "$value": "#006f82",
         "key": "{Cyan.30}"
       },
       "name": "cyan-30",
@@ -3504,18 +4299,24 @@
     "40": {
       "key": "{Cyan.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#0098b2",
       "$type": "color",
+      "$value": "#0098b2",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#0098b2",
         "$type": "color",
+        "$value": "#0098b2",
         "key": "{Cyan.40}"
       },
       "name": "cyan-40",
@@ -3531,18 +4332,24 @@
     "50": {
       "key": "{Cyan.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#00bdde",
       "$type": "color",
+      "$value": "#00bdde",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#00bdde",
         "$type": "color",
+        "$value": "#00bdde",
         "key": "{Cyan.50}"
       },
       "name": "cyan-50",
@@ -3558,18 +4365,24 @@
     "60": {
       "key": "{Cyan.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#28d0ed",
       "$type": "color",
+      "$value": "#28d0ed",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#28d0ed",
         "$type": "color",
+        "$value": "#28d0ed",
         "key": "{Cyan.60}"
       },
       "name": "cyan-60",
@@ -3585,18 +4398,24 @@
     "70": {
       "key": "{Cyan.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#57dff7",
       "$type": "color",
+      "$value": "#57dff7",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#57dff7",
         "$type": "color",
+        "$value": "#57dff7",
         "key": "{Cyan.70}"
       },
       "name": "cyan-70",
@@ -3612,18 +4431,24 @@
     "80": {
       "key": "{Cyan.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#8aedff",
       "$type": "color",
+      "$value": "#8aedff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#8aedff",
         "$type": "color",
+        "$value": "#8aedff",
         "key": "{Cyan.80}"
       },
       "name": "cyan-80",
@@ -3639,18 +4464,24 @@
     "90": {
       "key": "{Cyan.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#b5f4ff",
       "$type": "color",
+      "$value": "#b5f4ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#b5f4ff",
         "$type": "color",
+        "$value": "#b5f4ff",
         "key": "{Cyan.90}"
       },
       "name": "cyan-90",
@@ -3666,18 +4497,24 @@
     "95": {
       "key": "{Cyan.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#defaff",
       "$type": "color",
+      "$value": "#defaff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#defaff",
         "$type": "color",
+        "$value": "#defaff",
         "key": "{Cyan.95}"
       },
       "name": "cyan-95",
@@ -3693,18 +4530,24 @@
     "99": {
       "key": "{Cyan.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f7feff",
       "$type": "color",
+      "$value": "#f7feff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f7feff",
         "$type": "color",
+        "$value": "#f7feff",
         "key": "{Cyan.99}"
       },
       "name": "cyan-99",
@@ -3720,18 +4563,24 @@
     "100": {
       "key": "{Cyan.100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Cyan.100}"
       },
       "name": "cyan-100",
@@ -3749,18 +4598,24 @@
     "0": {
       "key": "{Light Blue.0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Light Blue.0}"
       },
       "name": "light-blue-0",
@@ -3776,18 +4631,24 @@
     "10": {
       "key": "{Light Blue.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#002130",
       "$type": "color",
+      "$value": "#002130",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#002130",
         "$type": "color",
+        "$value": "#002130",
         "key": "{Light Blue.10}"
       },
       "name": "light-blue-10",
@@ -3803,18 +4664,24 @@
     "20": {
       "key": "{Light Blue.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#004261",
       "$type": "color",
+      "$value": "#004261",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#004261",
         "$type": "color",
+        "$value": "#004261",
         "key": "{Light Blue.20}"
       },
       "name": "light-blue-20",
@@ -3830,18 +4697,24 @@
     "30": {
       "key": "{Light Blue.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#006796",
       "$type": "color",
+      "$value": "#006796",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#006796",
         "$type": "color",
+        "$value": "#006796",
         "key": "{Light Blue.30}"
       },
       "name": "light-blue-30",
@@ -3857,18 +4730,24 @@
     "40": {
       "key": "{Light Blue.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#008dcf",
       "$type": "color",
+      "$value": "#008dcf",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#008dcf",
         "$type": "color",
+        "$value": "#008dcf",
         "key": "{Light Blue.40}"
       },
       "name": "light-blue-40",
@@ -3884,18 +4763,24 @@
     "50": {
       "key": "{Light Blue.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#00aeff",
       "$type": "color",
+      "$value": "#00aeff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#00aeff",
         "$type": "color",
+        "$value": "#00aeff",
         "key": "{Light Blue.50}"
       },
       "name": "light-blue-50",
@@ -3911,18 +4796,24 @@
     "60": {
       "key": "{Light Blue.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#3dc2ff",
       "$type": "color",
+      "$value": "#3dc2ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#3dc2ff",
         "$type": "color",
+        "$value": "#3dc2ff",
         "key": "{Light Blue.60}"
       },
       "name": "light-blue-60",
@@ -3938,18 +4829,24 @@
     "70": {
       "key": "{Light Blue.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#70d2ff",
       "$type": "color",
+      "$value": "#70d2ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#70d2ff",
         "$type": "color",
+        "$value": "#70d2ff",
         "key": "{Light Blue.70}"
       },
       "name": "light-blue-70",
@@ -3965,18 +4862,24 @@
     "80": {
       "key": "{Light Blue.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#a1e1ff",
       "$type": "color",
+      "$value": "#a1e1ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#a1e1ff",
         "$type": "color",
+        "$value": "#a1e1ff",
         "key": "{Light Blue.80}"
       },
       "name": "light-blue-80",
@@ -3992,18 +4895,24 @@
     "90": {
       "key": "{Light Blue.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#c4ecfe",
       "$type": "color",
+      "$value": "#c4ecfe",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#c4ecfe",
         "$type": "color",
+        "$value": "#c4ecfe",
         "key": "{Light Blue.90}"
       },
       "name": "light-blue-90",
@@ -4019,18 +4928,24 @@
     "95": {
       "key": "{Light Blue.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#e5f6fe",
       "$type": "color",
+      "$value": "#e5f6fe",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e5f6fe",
         "$type": "color",
+        "$value": "#e5f6fe",
         "key": "{Light Blue.95}"
       },
       "name": "light-blue-95",
@@ -4046,18 +4961,24 @@
     "99": {
       "key": "{Light Blue.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f7fdff",
       "$type": "color",
+      "$value": "#f7fdff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f7fdff",
         "$type": "color",
+        "$value": "#f7fdff",
         "key": "{Light Blue.99}"
       },
       "name": "light-blue-99",
@@ -4073,18 +4994,24 @@
     "100": {
       "key": "{Light Blue.100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Light Blue.100}"
       },
       "name": "light-blue-100",
@@ -4102,18 +5029,24 @@
     "0": {
       "key": "{Violet.0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Violet.0}"
       },
       "name": "violet-0",
@@ -4129,18 +5062,24 @@
     "10": {
       "key": "{Violet.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#11024d",
       "$type": "color",
+      "$value": "#11024d",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#11024d",
         "$type": "color",
+        "$value": "#11024d",
         "key": "{Violet.10}"
       },
       "name": "violet-10",
@@ -4156,18 +5095,24 @@
     "20": {
       "key": "{Violet.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#23098f",
       "$type": "color",
+      "$value": "#23098f",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#23098f",
         "$type": "color",
+        "$value": "#23098f",
         "key": "{Violet.20}"
       },
       "name": "violet-20",
@@ -4183,18 +5128,24 @@
     "30": {
       "key": "{Violet.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#3a16c9",
       "$type": "color",
+      "$value": "#3a16c9",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#3a16c9",
         "$type": "color",
+        "$value": "#3a16c9",
         "key": "{Violet.30}"
       },
       "name": "violet-30",
@@ -4210,18 +5161,24 @@
     "40": {
       "key": "{Violet.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#4f29e5",
       "$type": "color",
+      "$value": "#4f29e5",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#4f29e5",
         "$type": "color",
+        "$value": "#4f29e5",
         "key": "{Violet.40}"
       },
       "name": "violet-40",
@@ -4237,18 +5194,24 @@
     "45": {
       "key": "{Violet.45}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#5b37ed",
       "$type": "color",
+      "$value": "#5b37ed",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#5b37ed",
         "$type": "color",
+        "$value": "#5b37ed",
         "key": "{Violet.45}"
       },
       "name": "violet-45",
@@ -4264,18 +5227,24 @@
     "50": {
       "key": "{Violet.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#6541f2",
       "$type": "color",
+      "$value": "#6541f2",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#6541f2",
         "$type": "color",
+        "$value": "#6541f2",
         "key": "{Violet.50}"
       },
       "name": "violet-50",
@@ -4291,18 +5260,24 @@
     "60": {
       "key": "{Violet.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#7d5ef7",
       "$type": "color",
+      "$value": "#7d5ef7",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#7d5ef7",
         "$type": "color",
+        "$value": "#7d5ef7",
         "key": "{Violet.60}"
       },
       "name": "violet-60",
@@ -4318,18 +5293,24 @@
     "70": {
       "key": "{Violet.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#9e86fc",
       "$type": "color",
+      "$value": "#9e86fc",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#9e86fc",
         "$type": "color",
+        "$value": "#9e86fc",
         "key": "{Violet.70}"
       },
       "name": "violet-70",
@@ -4345,18 +5326,24 @@
     "80": {
       "key": "{Violet.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#c0b0ff",
       "$type": "color",
+      "$value": "#c0b0ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#c0b0ff",
         "$type": "color",
+        "$value": "#c0b0ff",
         "key": "{Violet.80}"
       },
       "name": "violet-80",
@@ -4372,18 +5359,24 @@
     "90": {
       "key": "{Violet.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#dbd3fe",
       "$type": "color",
+      "$value": "#dbd3fe",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#dbd3fe",
         "$type": "color",
+        "$value": "#dbd3fe",
         "key": "{Violet.90}"
       },
       "name": "violet-90",
@@ -4399,18 +5392,24 @@
     "95": {
       "key": "{Violet.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f0ecfe",
       "$type": "color",
+      "$value": "#f0ecfe",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f0ecfe",
         "$type": "color",
+        "$value": "#f0ecfe",
         "key": "{Violet.95}"
       },
       "name": "violet-95",
@@ -4426,18 +5425,24 @@
     "99": {
       "key": "{Violet.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fbfaff",
       "$type": "color",
+      "$value": "#fbfaff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fbfaff",
         "$type": "color",
+        "$value": "#fbfaff",
         "key": "{Violet.99}"
       },
       "name": "violet-99",
@@ -4453,18 +5458,24 @@
     "100": {
       "key": "{Violet.100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Violet.100}"
       },
       "name": "violet-100",
@@ -4482,18 +5493,24 @@
     "0": {
       "key": "{Pink.0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Pink.0}"
       },
       "name": "pink-0",
@@ -4509,18 +5526,24 @@
     "10": {
       "key": "{Pink.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#3d0133",
       "$type": "color",
+      "$value": "#3d0133",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#3d0133",
         "$type": "color",
+        "$value": "#3d0133",
         "key": "{Pink.10}"
       },
       "name": "pink-10",
@@ -4536,18 +5559,24 @@
     "20": {
       "key": "{Pink.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#730560",
       "$type": "color",
+      "$value": "#730560",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#730560",
         "$type": "color",
+        "$value": "#730560",
         "key": "{Pink.20}"
       },
       "name": "pink-20",
@@ -4563,18 +5592,24 @@
     "30": {
       "key": "{Pink.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#a81690",
       "$type": "color",
+      "$value": "#a81690",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#a81690",
         "$type": "color",
+        "$value": "#a81690",
         "key": "{Pink.30}"
       },
       "name": "pink-30",
@@ -4590,18 +5625,24 @@
     "40": {
       "key": "{Pink.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#d331b8",
       "$type": "color",
+      "$value": "#d331b8",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#d331b8",
         "$type": "color",
+        "$value": "#d331b8",
         "key": "{Pink.40}"
       },
       "name": "pink-40",
@@ -4617,18 +5658,24 @@
     "46": {
       "key": "{Pink.46}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#e846cd",
       "$type": "color",
+      "$value": "#e846cd",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e846cd",
         "$type": "color",
+        "$value": "#e846cd",
         "key": "{Pink.46}"
       },
       "name": "pink-46",
@@ -4644,18 +5691,24 @@
     "50": {
       "key": "{Pink.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f553da",
       "$type": "color",
+      "$value": "#f553da",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f553da",
         "$type": "color",
+        "$value": "#f553da",
         "key": "{Pink.50}"
       },
       "name": "pink-50",
@@ -4671,18 +5724,24 @@
     "60": {
       "key": "{Pink.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fa73e3",
       "$type": "color",
+      "$value": "#fa73e3",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fa73e3",
         "$type": "color",
+        "$value": "#fa73e3",
         "key": "{Pink.60}"
       },
       "name": "pink-60",
@@ -4698,18 +5757,24 @@
     "70": {
       "key": "{Pink.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff94ed",
       "$type": "color",
+      "$value": "#ff94ed",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff94ed",
         "$type": "color",
+        "$value": "#ff94ed",
         "key": "{Pink.70}"
       },
       "name": "pink-70",
@@ -4725,18 +5790,24 @@
     "80": {
       "key": "{Pink.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffb8f3",
       "$type": "color",
+      "$value": "#ffb8f3",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffb8f3",
         "$type": "color",
+        "$value": "#ffb8f3",
         "key": "{Pink.80}"
       },
       "name": "pink-80",
@@ -4752,18 +5823,24 @@
     "90": {
       "key": "{Pink.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fed3f7",
       "$type": "color",
+      "$value": "#fed3f7",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fed3f7",
         "$type": "color",
+        "$value": "#fed3f7",
         "key": "{Pink.90}"
       },
       "name": "pink-90",
@@ -4779,18 +5856,24 @@
     "95": {
       "key": "{Pink.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#feecfb",
       "$type": "color",
+      "$value": "#feecfb",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#feecfb",
         "$type": "color",
+        "$value": "#feecfb",
         "key": "{Pink.95}"
       },
       "name": "pink-95",
@@ -4806,18 +5889,24 @@
     "99": {
       "key": "{Pink.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fffafe",
       "$type": "color",
+      "$value": "#fffafe",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fffafe",
         "$type": "color",
+        "$value": "#fffafe",
         "key": "{Pink.99}"
       },
       "name": "pink-99",
@@ -4833,18 +5922,24 @@
     "100": {
       "key": "{Pink.100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Pink.100}"
       },
       "name": "pink-100",
@@ -4862,18 +5957,24 @@
     "0": {
       "key": "{Purple.0}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Purple.0}"
       },
       "name": "purple-0",
@@ -4889,18 +5990,24 @@
     "10": {
       "key": "{Purple.10}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#290247",
       "$type": "color",
+      "$value": "#290247",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#290247",
         "$type": "color",
+        "$value": "#290247",
         "key": "{Purple.10}"
       },
       "name": "purple-10",
@@ -4916,18 +6023,24 @@
     "20": {
       "key": "{Purple.20}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#580a7d",
       "$type": "color",
+      "$value": "#580a7d",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#580a7d",
         "$type": "color",
+        "$value": "#580a7d",
         "key": "{Purple.20}"
       },
       "name": "purple-20",
@@ -4943,18 +6056,24 @@
     "30": {
       "key": "{Purple.30}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#861cb8",
       "$type": "color",
+      "$value": "#861cb8",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#861cb8",
         "$type": "color",
+        "$value": "#861cb8",
         "key": "{Purple.30}"
       },
       "name": "purple-30",
@@ -4970,18 +6089,24 @@
     "40": {
       "key": "{Purple.40}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ad36e3",
       "$type": "color",
+      "$value": "#ad36e3",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ad36e3",
         "$type": "color",
+        "$value": "#ad36e3",
         "key": "{Purple.40}"
       },
       "name": "purple-40",
@@ -4997,18 +6122,24 @@
     "50": {
       "key": "{Purple.50}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#cb59ff",
       "$type": "color",
+      "$value": "#cb59ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#cb59ff",
         "$type": "color",
+        "$value": "#cb59ff",
         "key": "{Purple.50}"
       },
       "name": "purple-50",
@@ -5024,18 +6155,24 @@
     "60": {
       "key": "{Purple.60}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#d478ff",
       "$type": "color",
+      "$value": "#d478ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#d478ff",
         "$type": "color",
+        "$value": "#d478ff",
         "key": "{Purple.60}"
       },
       "name": "purple-60",
@@ -5051,18 +6188,24 @@
     "70": {
       "key": "{Purple.70}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#de96ff",
       "$type": "color",
+      "$value": "#de96ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#de96ff",
         "$type": "color",
+        "$value": "#de96ff",
         "key": "{Purple.70}"
       },
       "name": "purple-70",
@@ -5078,18 +6221,24 @@
     "80": {
       "key": "{Purple.80}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#e9baff",
       "$type": "color",
+      "$value": "#e9baff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e9baff",
         "$type": "color",
+        "$value": "#e9baff",
         "key": "{Purple.80}"
       },
       "name": "purple-80",
@@ -5105,18 +6254,24 @@
     "90": {
       "key": "{Purple.90}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f2d6ff",
       "$type": "color",
+      "$value": "#f2d6ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f2d6ff",
         "$type": "color",
+        "$value": "#f2d6ff",
         "key": "{Purple.90}"
       },
       "name": "purple-90",
@@ -5132,18 +6287,24 @@
     "95": {
       "key": "{Purple.95}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f9edff",
       "$type": "color",
+      "$value": "#f9edff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f9edff",
         "$type": "color",
+        "$value": "#f9edff",
         "key": "{Purple.95}"
       },
       "name": "purple-95",
@@ -5159,18 +6320,24 @@
     "99": {
       "key": "{Purple.99}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#fefbff",
       "$type": "color",
+      "$value": "#fefbff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#fefbff",
         "$type": "color",
+        "$value": "#fefbff",
         "key": "{Purple.99}"
       },
       "name": "purple-99",
@@ -5186,18 +6353,24 @@
     "100": {
       "key": "{Purple.100}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Purple.100}"
       },
       "name": "purple-100",
@@ -5220,8 +6393,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 0,
       "$type": "number",
+      "$value": 0,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5231,8 +6404,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 0,
         "$type": "number",
+        "$value": 0,
         "key": "{Opacity.0}"
       },
       "name": "opacity-0",
@@ -5253,8 +6426,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 5,
       "$type": "number",
+      "$value": 5,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5264,8 +6437,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 5,
         "$type": "number",
+        "$value": 5,
         "key": "{Opacity.5}"
       },
       "name": "opacity-5",
@@ -5286,8 +6459,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 8,
       "$type": "number",
+      "$value": 8,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5297,8 +6470,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 8,
         "$type": "number",
+        "$value": 8,
         "key": "{Opacity.8}"
       },
       "name": "opacity-8",
@@ -5319,8 +6492,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 12,
       "$type": "number",
+      "$value": 12,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5330,8 +6503,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 12,
         "$type": "number",
+        "$value": 12,
         "key": "{Opacity.12}"
       },
       "name": "opacity-12",
@@ -5352,8 +6525,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 16,
       "$type": "number",
+      "$value": 16,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5363,8 +6536,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 16,
         "$type": "number",
+        "$value": 16,
         "key": "{Opacity.16}"
       },
       "name": "opacity-16",
@@ -5385,8 +6558,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 22,
       "$type": "number",
+      "$value": 22,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5396,8 +6569,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 22,
         "$type": "number",
+        "$value": 22,
         "key": "{Opacity.22}"
       },
       "name": "opacity-22",
@@ -5418,8 +6591,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 28,
       "$type": "number",
+      "$value": 28,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5429,8 +6602,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 28,
         "$type": "number",
+        "$value": 28,
         "key": "{Opacity.28}"
       },
       "name": "opacity-28",
@@ -5451,8 +6624,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 35,
       "$type": "number",
+      "$value": 35,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5462,8 +6635,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 35,
         "$type": "number",
+        "$value": 35,
         "key": "{Opacity.35}"
       },
       "name": "opacity-35",
@@ -5484,8 +6657,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 43,
       "$type": "number",
+      "$value": 43,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5495,8 +6668,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 43,
         "$type": "number",
+        "$value": 43,
         "key": "{Opacity.43}"
       },
       "name": "opacity-43",
@@ -5517,8 +6690,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 52,
       "$type": "number",
+      "$value": 52,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5528,8 +6701,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 52,
         "$type": "number",
+        "$value": 52,
         "key": "{Opacity.52}"
       },
       "name": "opacity-52",
@@ -5550,8 +6723,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 61,
       "$type": "number",
+      "$value": 61,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5561,8 +6734,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 61,
         "$type": "number",
+        "$value": 61,
         "key": "{Opacity.61}"
       },
       "name": "opacity-61",
@@ -5583,8 +6756,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 74,
       "$type": "number",
+      "$value": 74,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5594,8 +6767,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 74,
         "$type": "number",
+        "$value": 74,
         "key": "{Opacity.74}"
       },
       "name": "opacity-74",
@@ -5616,8 +6789,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 88,
       "$type": "number",
+      "$value": 88,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5627,8 +6800,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 88,
         "$type": "number",
+        "$value": 88,
         "key": "{Opacity.88}"
       },
       "name": "opacity-88",
@@ -5649,8 +6822,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 97,
       "$type": "number",
+      "$value": 97,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5660,8 +6833,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 97,
         "$type": "number",
+        "$value": 97,
         "key": "{Opacity.97}"
       },
       "name": "opacity-97",
@@ -5682,8 +6855,8 @@
         ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": 100,
       "$type": "number",
+      "$value": 100,
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
@@ -5693,8 +6866,8 @@
           ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": 100,
         "$type": "number",
+        "$value": 100,
         "key": "{Opacity.100}"
       },
       "name": "opacity-100",
@@ -5712,18 +6885,24 @@
     "Normal": {
       "key": "{Primary.Normal}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#0066ff",
       "$type": "color",
+      "$value": "#0066ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Blue.50}",
         "$type": "color",
+        "$value": "{Blue.50}",
         "key": "{Primary.Normal}"
       },
       "name": "primary-normal",
@@ -5739,18 +6918,24 @@
     "Strong": {
       "key": "{Primary.Strong}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#005eeb",
       "$type": "color",
+      "$value": "#005eeb",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Blue.45}",
         "$type": "color",
+        "$value": "{Blue.45}",
         "key": "{Primary.Strong}"
       },
       "name": "primary-strong",
@@ -5766,18 +6951,24 @@
     "Heavy": {
       "key": "{Primary.Heavy}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#0054d1",
       "$type": "color",
+      "$value": "#0054d1",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Blue.40}",
         "$type": "color",
+        "$value": "{Blue.40}",
         "key": "{Primary.Heavy}"
       },
       "name": "primary-heavy",
@@ -5795,18 +6986,24 @@
     "Normal": {
       "key": "{Label.Normal}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#171719",
       "$type": "color",
+      "$value": "#171719",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Cool Neutral.10}",
         "$type": "color",
+        "$value": "{Cool Neutral.10}",
         "key": "{Label.Normal}"
       },
       "name": "label-normal",
@@ -5822,18 +7019,24 @@
     "Strong": {
       "key": "{Label.Strong}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Label.Strong}"
       },
       "name": "label-strong",
@@ -5849,19 +7052,25 @@
     "Neutral": {
       "key": "{Label.Neutral}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(46, 47, 51, 0.88)",
       "$type": "color",
+      "$value": "rgba(46, 47, 51, 0.88)",
       "$description": "Light: Cool Neutral/22, Opacity/88\nDark: Cool Neutral/90, Opacity/88",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#2e2f33e0",
         "$type": "color",
+        "$value": "#2e2f33e0",
         "$description": "Light: Cool Neutral/22, Opacity/88\nDark: Cool Neutral/90, Opacity/88",
         "key": "{Label.Neutral}"
       },
@@ -5878,19 +7087,25 @@
     "Alternative": {
       "key": "{Label.Alternative}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(55, 56, 60, 0.61)",
       "$type": "color",
+      "$value": "rgba(55, 56, 60, 0.61)",
       "$description": "Light: Cool Neutral/25, Opacity/61\nDark: Cool Neutral/80, Opacity/61",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#37383c9c",
         "$type": "color",
+        "$value": "#37383c9c",
         "$description": "Light: Cool Neutral/25, Opacity/61\nDark: Cool Neutral/80, Opacity/61",
         "key": "{Label.Alternative}"
       },
@@ -5907,19 +7122,25 @@
     "Assistive": {
       "key": "{Label.Assistive}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(55, 56, 60, 0.28)",
       "$type": "color",
+      "$value": "rgba(55, 56, 60, 0.28)",
       "$description": "Light: Cool Neutral/25, Opacity/28\nDark: Cool Neutral/80, Opacity/28",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#37383c47",
         "$type": "color",
+        "$value": "#37383c47",
         "$description": "Light: Cool Neutral/25, Opacity/28\nDark: Cool Neutral/80, Opacity/28",
         "key": "{Label.Assistive}"
       },
@@ -5936,19 +7157,25 @@
     "Disable": {
       "key": "{Label.Disable}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(55, 56, 60, 0.16)",
       "$type": "color",
+      "$value": "rgba(55, 56, 60, 0.16)",
       "$description": "Light: Cool Neutral/25, Opacity/16\nDark: Cool Neutral/70, Opacity/16",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#37383c29",
         "$type": "color",
+        "$value": "#37383c29",
         "$description": "Light: Cool Neutral/25, Opacity/16\nDark: Cool Neutral/70, Opacity/16",
         "key": "{Label.Disable}"
       },
@@ -5968,18 +7195,24 @@
       "Normal": {
         "key": "{Background.Normal.Normal}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffffff",
         "$type": "color",
+        "$value": "#ffffff",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Common.100}",
           "$type": "color",
+          "$value": "{Common.100}",
           "key": "{Background.Normal.Normal}"
         },
         "name": "background-normal-normal",
@@ -5997,18 +7230,24 @@
       "Alternative": {
         "key": "{Background.Normal.Alternative}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f7f7f8",
         "$type": "color",
+        "$value": "#f7f7f8",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cool Neutral.99}",
           "$type": "color",
+          "$value": "{Cool Neutral.99}",
           "key": "{Background.Normal.Alternative}"
         },
         "name": "background-normal-alternative",
@@ -6028,18 +7267,24 @@
       "Normal": {
         "key": "{Background.Elevated.Normal}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ffffff",
         "$type": "color",
+        "$value": "#ffffff",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Common.100}",
           "$type": "color",
+          "$value": "{Common.100}",
           "key": "{Background.Elevated.Normal}"
         },
         "name": "background-elevated-normal",
@@ -6057,18 +7302,24 @@
       "Alternative": {
         "key": "{Background.Elevated.Alternative}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f7f7f8",
         "$type": "color",
+        "$value": "#f7f7f8",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cool Neutral.99}",
           "$type": "color",
+          "$value": "{Cool Neutral.99}",
           "key": "{Background.Elevated.Alternative}"
         },
         "name": "background-elevated-alternative",
@@ -6093,8 +7344,8 @@
           ],
           "com.figma.hiddenFromPublishing": false
         },
-        "$value": "rgba(255, 255, 255, 0.08)",
         "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.08)",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
@@ -6104,8 +7355,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$value": "#ffffff14",
           "$type": "color",
+          "$value": "#ffffff14",
           "key": "{Background.Transparent.Normal}"
         },
         "name": "background-transparent-normal",
@@ -6128,8 +7379,8 @@
           ],
           "com.figma.hiddenFromPublishing": false
         },
-        "$value": "rgba(255, 255, 255, 0.28)",
         "$type": "color",
+        "$value": "rgba(255, 255, 255, 0.28)",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
@@ -6139,8 +7390,8 @@
             ],
             "com.figma.hiddenFromPublishing": false
           },
-          "$value": "#ffffff47",
           "$type": "color",
+          "$value": "#ffffff47",
           "key": "{Background.Transparent.Alternative}"
         },
         "name": "background-transparent-alternative",
@@ -6161,18 +7412,24 @@
     "Inactive": {
       "key": "{Interaction.Inactive}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#989ba2",
       "$type": "color",
+      "$value": "#989ba2",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Cool Neutral.70}",
         "$type": "color",
+        "$value": "{Cool Neutral.70}",
         "key": "{Interaction.Inactive}"
       },
       "name": "interaction-inactive",
@@ -6188,18 +7445,24 @@
     "Disable": {
       "key": "{Interaction.Disable}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f4f4f5",
       "$type": "color",
+      "$value": "#f4f4f5",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Cool Neutral.98}",
         "$type": "color",
+        "$value": "{Cool Neutral.98}",
         "key": "{Interaction.Disable}"
       },
       "name": "interaction-disable",
@@ -6218,19 +7481,25 @@
       "Normal": {
         "key": "{Line.Normal.Normal}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "rgba(112, 115, 124, 0.22)",
         "$type": "color",
+        "$value": "rgba(112, 115, 124, 0.22)",
         "$description": "Light: Cool Neutral/50, Opacity/22\nDark: Cool Neutral/50, Opacity/32",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "#70737c38",
           "$type": "color",
+          "$value": "#70737c38",
           "$description": "Light: Cool Neutral/50, Opacity/22\nDark: Cool Neutral/50, Opacity/32",
           "key": "{Line.Normal.Normal}"
         },
@@ -6249,19 +7518,25 @@
       "Neutral": {
         "key": "{Line.Normal.Neutral}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "rgba(112, 115, 124, 0.16)",
         "$type": "color",
+        "$value": "rgba(112, 115, 124, 0.16)",
         "$description": "Light: Cool Neutral/50, Opacity/16\nDark: Cool Neutral/50, Opacity/28",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "#70737c29",
           "$type": "color",
+          "$value": "#70737c29",
           "$description": "Light: Cool Neutral/50, Opacity/16\nDark: Cool Neutral/50, Opacity/28",
           "key": "{Line.Normal.Neutral}"
         },
@@ -6280,19 +7555,25 @@
       "Alternative": {
         "key": "{Line.Normal.Alternative}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "rgba(112, 115, 124, 0.08)",
         "$type": "color",
+        "$value": "rgba(112, 115, 124, 0.08)",
         "$description": "Light: Cool Neutral/50, Opacity/8\nDark: Cool Neutral/50, Opacity/22",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "#70737c14",
           "$type": "color",
+          "$value": "#70737c14",
           "$description": "Light: Cool Neutral/50, Opacity/8\nDark: Cool Neutral/50, Opacity/22",
           "key": "{Line.Normal.Alternative}"
         },
@@ -6311,19 +7592,25 @@
       "_Strong": {
         "key": "{Line.Normal._Strong}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "rgba(112, 115, 124, 0.52)",
         "$type": "color",
+        "$value": "rgba(112, 115, 124, 0.52)",
         "$description": "Light: Cool Neutral/50, Opacity/52\nDark: Cool Neutral/90, Opacity/52",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "#70737c85",
           "$type": "color",
+          "$value": "#70737c85",
           "$description": "Light: Cool Neutral/50, Opacity/52\nDark: Cool Neutral/90, Opacity/52",
           "key": "{Line.Normal._Strong}"
         },
@@ -6344,18 +7631,24 @@
       "Normal": {
         "key": "{Line.Solid.Normal}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e1e2e4",
         "$type": "color",
+        "$value": "#e1e2e4",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cool Neutral.96}",
           "$type": "color",
+          "$value": "{Cool Neutral.96}",
           "key": "{Line.Solid.Normal}"
         },
         "name": "line-solid-normal",
@@ -6373,18 +7666,24 @@
       "Neutral": {
         "key": "{Line.Solid.Neutral}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#eaebec",
         "$type": "color",
+        "$value": "#eaebec",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cool Neutral.97}",
           "$type": "color",
+          "$value": "{Cool Neutral.97}",
           "key": "{Line.Solid.Neutral}"
         },
         "name": "line-solid-neutral",
@@ -6402,18 +7701,24 @@
       "Alternative": {
         "key": "{Line.Solid.Alternative}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f4f4f5",
         "$type": "color",
+        "$value": "#f4f4f5",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cool Neutral.98}",
           "$type": "color",
+          "$value": "{Cool Neutral.98}",
           "key": "{Line.Solid.Alternative}"
         },
         "name": "line-solid-alternative",
@@ -6431,18 +7736,24 @@
       "_Strong": {
         "key": "{Line.Solid._Strong}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#aeb0b6",
         "$type": "color",
+        "$value": "#aeb0b6",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cool Neutral.80}",
           "$type": "color",
+          "$value": "{Cool Neutral.80}",
           "key": "{Line.Solid._Strong}"
         },
         "name": "line-solid-strong",
@@ -6463,19 +7774,25 @@
     "Normal": {
       "key": "{Fill.Normal}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(112, 115, 124, 0.08)",
       "$type": "color",
+      "$value": "rgba(112, 115, 124, 0.08)",
       "$description": "Light: Cool Neutral/50, Opacity/8\nDark: Cool Neutral/50, Opacity/22",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#70737c14",
         "$type": "color",
+        "$value": "#70737c14",
         "$description": "Light: Cool Neutral/50, Opacity/8\nDark: Cool Neutral/50, Opacity/22",
         "key": "{Fill.Normal}"
       },
@@ -6492,19 +7809,25 @@
     "Strong": {
       "key": "{Fill.Strong}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(112, 115, 124, 0.16)",
       "$type": "color",
+      "$value": "rgba(112, 115, 124, 0.16)",
       "$description": "Light: Cool Neutral/50, Opacity/16\nDark: Cool Neutral/50, Opacity/28",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#70737c29",
         "$type": "color",
+        "$value": "#70737c29",
         "$description": "Light: Cool Neutral/50, Opacity/16\nDark: Cool Neutral/50, Opacity/28",
         "key": "{Fill.Strong}"
       },
@@ -6521,19 +7844,25 @@
     "Alternative": {
       "key": "{Fill.Alternative}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(112, 115, 124, 0.05)",
       "$type": "color",
+      "$value": "rgba(112, 115, 124, 0.05)",
       "$description": "Light: Cool Neutral/50, Opacity/5\nDark: Cool Neutral/50, Opacity/12",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#70737c0d",
         "$type": "color",
+        "$value": "#70737c0d",
         "$description": "Light: Cool Neutral/50, Opacity/5\nDark: Cool Neutral/50, Opacity/12",
         "key": "{Fill.Alternative}"
       },
@@ -6552,18 +7881,24 @@
     "Positive": {
       "key": "{Status.Positive}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#00bf40",
       "$type": "color",
+      "$value": "#00bf40",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Green.50}",
         "$type": "color",
+        "$value": "{Green.50}",
         "key": "{Status.Positive}"
       },
       "name": "status-positive",
@@ -6579,18 +7914,24 @@
     "Cautionary": {
       "key": "{Status.Cautionary}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff9200",
       "$type": "color",
+      "$value": "#ff9200",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Orange.50}",
         "$type": "color",
+        "$value": "{Orange.50}",
         "key": "{Status.Cautionary}"
       },
       "name": "status-cautionary",
@@ -6606,18 +7947,24 @@
     "Negative": {
       "key": "{Status.Negative}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ff4242",
       "$type": "color",
+      "$value": "#ff4242",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Red.50}",
         "$type": "color",
+        "$value": "{Red.50}",
         "key": "{Status.Negative}"
       },
       "name": "status-negative",
@@ -6635,18 +7982,24 @@
     "White": {
       "key": "{Static.White}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#ffffff",
       "$type": "color",
+      "$value": "#ffffff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.100}",
         "$type": "color",
+        "$value": "{Common.100}",
         "key": "{Static.White}"
       },
       "name": "static-white",
@@ -6662,18 +8015,24 @@
     "Black": {
       "key": "{Static.Black}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#000000",
       "$type": "color",
+      "$value": "#000000",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Common.0}",
         "$type": "color",
+        "$value": "{Common.0}",
         "key": "{Static.Black}"
       },
       "name": "static-black",
@@ -6692,18 +8051,24 @@
       "Lime": {
         "key": "{Accent.Background.Lime}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#58cf04",
         "$type": "color",
+        "$value": "#58cf04",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Lime.50}",
           "$type": "color",
+          "$value": "{Lime.50}",
           "key": "{Accent.Background.Lime}"
         },
         "name": "accent-background-lime",
@@ -6721,18 +8086,24 @@
       "Cyan": {
         "key": "{Accent.Background.Cyan}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#00bdde",
         "$type": "color",
+        "$value": "#00bdde",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cyan.50}",
           "$type": "color",
+          "$value": "{Cyan.50}",
           "key": "{Accent.Background.Cyan}"
         },
         "name": "accent-background-cyan",
@@ -6750,18 +8121,24 @@
       "Light Blue": {
         "key": "{Accent.Background.Light Blue}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#00aeff",
         "$type": "color",
+        "$value": "#00aeff",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Light Blue.50}",
           "$type": "color",
+          "$value": "{Light Blue.50}",
           "key": "{Accent.Background.Light Blue}"
         },
         "name": "accent-background-light-blue",
@@ -6779,18 +8156,24 @@
       "Violet": {
         "key": "{Accent.Background.Violet}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#6541f2",
         "$type": "color",
+        "$value": "#6541f2",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Violet.50}",
           "$type": "color",
+          "$value": "{Violet.50}",
           "key": "{Accent.Background.Violet}"
         },
         "name": "accent-background-violet",
@@ -6808,18 +8191,24 @@
       "Pink": {
         "key": "{Accent.Background.Pink}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f553da",
         "$type": "color",
+        "$value": "#f553da",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Pink.50}",
           "$type": "color",
+          "$value": "{Pink.50}",
           "key": "{Accent.Background.Pink}"
         },
         "name": "accent-background-pink",
@@ -6837,18 +8226,24 @@
       "Red Orange": {
         "key": "{Accent.Background.Red Orange}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ff5e00",
         "$type": "color",
+        "$value": "#ff5e00",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Red Orange.50}",
           "$type": "color",
+          "$value": "{Red Orange.50}",
           "key": "{Accent.Background.Red Orange}"
         },
         "name": "accent-background-red-orange",
@@ -6866,18 +8261,24 @@
       "Purple": {
         "key": "{Accent.Background.Purple}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#cb59ff",
         "$type": "color",
+        "$value": "#cb59ff",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Purple.50}",
           "$type": "color",
+          "$value": "{Purple.50}",
           "key": "{Accent.Background.Purple}"
         },
         "name": "accent-background-purple",
@@ -6897,18 +8298,24 @@
       "Lime": {
         "key": "{Accent.Foreground.Lime}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#429e00",
         "$type": "color",
+        "$value": "#429e00",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Lime.37}",
           "$type": "color",
+          "$value": "{Lime.37}",
           "key": "{Accent.Foreground.Lime}"
         },
         "name": "accent-foreground-lime",
@@ -6926,18 +8333,24 @@
       "Cyan": {
         "key": "{Accent.Foreground.Cyan}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#0098b2",
         "$type": "color",
+        "$value": "#0098b2",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Cyan.40}",
           "$type": "color",
+          "$value": "{Cyan.40}",
           "key": "{Accent.Foreground.Cyan}"
         },
         "name": "accent-foreground-cyan",
@@ -6955,18 +8368,24 @@
       "Light Blue": {
         "key": "{Accent.Foreground.Light Blue}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#008dcf",
         "$type": "color",
+        "$value": "#008dcf",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Light Blue.40}",
           "$type": "color",
+          "$value": "{Light Blue.40}",
           "key": "{Accent.Foreground.Light Blue}"
         },
         "name": "accent-foreground-light-blue",
@@ -6984,18 +8403,24 @@
       "Violet": {
         "key": "{Accent.Foreground.Violet}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#5b37ed",
         "$type": "color",
+        "$value": "#5b37ed",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Violet.45}",
           "$type": "color",
+          "$value": "{Violet.45}",
           "key": "{Accent.Foreground.Violet}"
         },
         "name": "accent-foreground-violet",
@@ -7013,18 +8438,24 @@
       "Purple": {
         "key": "{Accent.Foreground.Purple}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#ad36e3",
         "$type": "color",
+        "$value": "#ad36e3",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Purple.40}",
           "$type": "color",
+          "$value": "{Purple.40}",
           "key": "{Accent.Foreground.Purple}"
         },
         "name": "accent-foreground-purple",
@@ -7042,18 +8473,24 @@
       "Pink": {
         "key": "{Accent.Foreground.Pink}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e846cd",
         "$type": "color",
+        "$value": "#e846cd",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Pink.46}",
           "$type": "color",
+          "$value": "{Pink.46}",
           "key": "{Accent.Foreground.Pink}"
         },
         "name": "accent-foreground-pink",
@@ -7071,18 +8508,24 @@
       "Red Orange": {
         "key": "{Accent.Foreground.Red Orange}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#f55a00",
         "$type": "color",
+        "$value": "#f55a00",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Red Orange.48}",
           "$type": "color",
+          "$value": "{Red Orange.48}",
           "key": "{Accent.Foreground.Red Orange}"
         },
         "name": "accent-foreground-red-orange",
@@ -7100,18 +8543,24 @@
       "Red": {
         "key": "{Accent.Foreground.Red}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#e52222",
         "$type": "color",
+        "$value": "#e52222",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Red.40}",
           "$type": "color",
+          "$value": "{Red.40}",
           "key": "{Accent.Foreground.Red}"
         },
         "name": "accent-foreground-red",
@@ -7129,18 +8578,24 @@
       "Orange": {
         "key": "{Accent.Foreground.Orange}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#d17600",
         "$type": "color",
+        "$value": "#d17600",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Orange.39}",
           "$type": "color",
+          "$value": "{Orange.39}",
           "key": "{Accent.Foreground.Orange}"
         },
         "name": "accent-foreground-orange",
@@ -7158,18 +8613,24 @@
       "Green": {
         "key": "{Accent.Foreground.Green}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#009632",
         "$type": "color",
+        "$value": "#009632",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Green.40}",
           "$type": "color",
+          "$value": "{Green.40}",
           "key": "{Accent.Foreground.Green}"
         },
         "name": "accent-foreground-green",
@@ -7187,18 +8648,24 @@
       "Blue": {
         "key": "{Accent.Foreground.Blue}",
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#005eeb",
         "$type": "color",
+        "$value": "#005eeb",
         "filePath": "tokens.json",
         "isSource": true,
         "original": {
           "$extensions": {
+            "com.figma.scopes": [
+              "ALL_SCOPES"
+            ],
             "com.figma.hiddenFromPublishing": true
           },
-          "$value": "{Blue.45}",
           "$type": "color",
+          "$value": "{Blue.45}",
           "key": "{Accent.Foreground.Blue}"
         },
         "name": "accent-foreground-blue",
@@ -7219,19 +8686,25 @@
     "Dimmer": {
       "key": "{Material.Dimmer}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "rgba(23, 23, 25, 0.52)",
       "$type": "color",
+      "$value": "rgba(23, 23, 25, 0.52)",
       "$description": "Light: Cool Neutral/10, Opacity/52\nDark: Cool Neutral/50, Opacity/74",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "#17171985",
         "$type": "color",
+        "$value": "#17171985",
         "$description": "Light: Cool Neutral/10, Opacity/52\nDark: Cool Neutral/50, Opacity/74",
         "key": "{Material.Dimmer}"
       },
@@ -7250,18 +8723,24 @@
     "Primary": {
       "key": "{Inverse.Primary}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#3385ff",
       "$type": "color",
+      "$value": "#3385ff",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Blue.60}",
         "$type": "color",
+        "$value": "{Blue.60}",
         "key": "{Inverse.Primary}"
       },
       "name": "inverse-primary",
@@ -7277,18 +8756,24 @@
     "Background": {
       "key": "{Inverse.Background}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#1b1c1e",
       "$type": "color",
+      "$value": "#1b1c1e",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Cool Neutral.15}",
         "$type": "color",
+        "$value": "{Cool Neutral.15}",
         "key": "{Inverse.Background}"
       },
       "name": "inverse-background",
@@ -7304,18 +8789,24 @@
     "Label": {
       "key": "{Inverse.Label}",
       "$extensions": {
+        "com.figma.scopes": [
+          "ALL_SCOPES"
+        ],
         "com.figma.hiddenFromPublishing": true
       },
-      "$value": "#f7f7f8",
       "$type": "color",
+      "$value": "#f7f7f8",
       "filePath": "tokens.json",
       "isSource": true,
       "original": {
         "$extensions": {
+          "com.figma.scopes": [
+            "ALL_SCOPES"
+          ],
           "com.figma.hiddenFromPublishing": true
         },
-        "$value": "{Cool Neutral.99}",
         "$type": "color",
+        "$value": "{Cool Neutral.99}",
         "key": "{Inverse.Label}"
       },
       "name": "inverse-label",

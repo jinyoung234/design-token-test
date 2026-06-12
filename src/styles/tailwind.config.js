@@ -6,7 +6,8 @@ module.exports = {
     extend: {
       common: {
         0: "#000000",
-        100: "#ffffff"
+        100: "#ffffff",
+        200: "#cacaca"
       },
       neutral: {
         0: "#000000",
