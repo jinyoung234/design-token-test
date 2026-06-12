@@ -1,0 +1,27 @@
+import { register } from '@tokens-studio/sd-transforms';
+import StyleDictionary from 'style-dictionary';
+
+register(StyleDictionary, {
+  excludeParentKeys: true, // ← 이거 추가! "Primitive/All" 같은 세트 키를 제거
+});
+
+const sd = new StyleDictionary({
+  source: ['tokens.json'], // Tokens Studio 에서 추출한 토큰
+  preprocessors: ['tokens-studio'],
+  platforms: {
+    css: {
+      transformGroup: 'tokens-studio', // <-- apply the tokens-studio transformGroup to apply all transforms
+      transforms: ['name/kebab'], // 만들어질 token 이름 형태, 기본값 camel
+      buildPath: '', // 생성될 파일 경로
+      files: [
+        {
+          destination: 'modifiedTokens.json', // 반환될 토큰 파일 이름
+          format: 'json',
+        },
+      ],
+    },
+  },
+});
+
+await sd.cleanAllPlatforms();
+await sd.buildAllPlatforms();
