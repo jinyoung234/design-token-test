@@ -1,0 +1,40 @@
+name: Build design tokens
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tokens.json' # 토큰 파일이 바뀐 push에만 반응
+
+permissions:
+  contents: write # 봇이 커밋할 수 있도록
+
+jobs:
+  build-tokens:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # 토큰 빌드 파이프라인 실행
+      - run: node sd-tokens-config.ts
+      - run: node tw-tokens-config.ts
+
+      # 생성된 파일이 변경됐으면 자동 커밋
+      - name: Commit generated token files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: rebuild design tokens"
+          git push
